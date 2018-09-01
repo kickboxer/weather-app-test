@@ -1,0 +1,130 @@
+[
+  {
+    "value": 1,
+    "label": "Минск"
+  },
+  {
+    "value": 2,
+    "label": "Minsk"
+  },
+  {
+    "value": 3,
+    "label": "Гомель"
+  },
+  {
+    "value": 4,
+    "label": "Homel"
+  },
+  {
+    "value": 5,
+    "label": "Brest"
+  },
+  {
+    "value": 6,
+    "label": "Брест"
+  },
+  {
+    "value": 7,
+    "label": "Гродно"
+  },
+  {
+    "value": 8,
+    "label": "Grodno"
+  },
+  {
+    "value": 9,
+    "label": "Kharkiv"
+  },
+  {
+    "value": 10,
+    "label": "Kiev"
+  },
+  {
+    "value": 11,
+    "label": "Москва"
+  },
+  {
+    "value": 12,
+    "label": "Moskva"
+  },
+  {
+    "value": 13,
+    "label": "Lviv"
+  },
+  {
+    "value": 14,
+    "label": "Львов"
+  },
+  {
+    "value": 15,
+    "label": "Днепр"
+  },
+  {
+    "value": 16,
+    "label": "Dnipro"
+  },
+  {
+    "value": 17,
+    "label": "Donetsk"
+  },
+  {
+    "value": 18,
+    "label": "Luhansk"
+  },
+  {
+    "value": 19,
+    "label": "Донецк"
+  },
+  {
+    "value": 20,
+    "label": "Луганск"
+  },
+  {
+    "value": 21,
+    "label": "Lutsk"
+  },
+  {
+    "value": 22,
+    "label": "Горловка"
+  },
+  {
+    "value": 23,
+    "label": "Gorlovka"
+  },
+  {
+    "value": 24,
+    "label": "Odessa"
+  },
+  {
+    "value": 25,
+    "label": "Запорожье"
+  },
+  {
+    "value": 26,
+    "label": "Черкассы"
+  },
+  {
+    "value": 27,
+    "label": "Миргород"
+  },
+  {
+    "value": 28,
+    "label": "Poltava"
+  },
+  {
+    "value": 29,
+    "label": "Полтава"
+  },
+  {
+    "value": 30,
+    "label": "Полоцк"
+  },
+  {
+    "value": 31,
+    "label": "Могилёв"
+  },
+  {
+    "value": 32,
+    "label": "Николаев"
+  }
+]
